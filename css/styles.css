@@ -1,7 +1,6 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
 
@@ -10,7 +9,10 @@ body {
 	color: #202030;
 	background-color: #f8f8fc;
 }
-
+/* Use this file to use your own styles*/
+.tagline {
+	color: #FE2EB7
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -18,7 +20,7 @@ body {
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #C0E9E0;
 }
 
 .resume-aside {
@@ -34,7 +36,7 @@ body {
 	width: 1em;
 	margin-left: -1em;
 }
-
+.biography-section {font-family: 'Playfair Display', serif;}
 .biography-details li::before {
 	color: #EE7623;
 }
