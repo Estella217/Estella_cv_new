@@ -11,20 +11,21 @@ body {
 }
 /* Use this file to use your own styles*/
 .tagline {
-	color: #FE2EB7
+	color: #86B2A2
 }
+.name {color: #B28E86}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #FFE0D9;
 }
 
 .resume-main {
-	background-color: #C0E9E0;
+	background-color: #F2FFFA;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #D9FFF1;
 }
 
 /* Styles for lists in the document */
